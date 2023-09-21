@@ -1,2 +1,2 @@
-# Digtial-Clock.github.io
-Live Here: https://arulmurugan6102k.github.io/Digtial-Clock.github.io/
+# Java_Script_Digtial-Clock
+Live Here: https://gilded-marshmallow-ef0941.netlify.app
